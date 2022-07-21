@@ -1,0 +1,103 @@
+.link-button {
+    background-color: tomato;
+    text-decoration: none;
+    padding: 10px 30px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+}
+
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.welcome-text {
+    text-align: center;
+    padding: 20%;
+    color: white;
+}
+
+.welcome-img {
+    background-image: url(donation7.jpg);
+}
+
+
+.donate-now {
+    margin-bottom: 100px;
+
+}
+
+.secnd-banner {
+    color: black;
+    text-align: center;
+    padding: 20px 20px 100px gray;
+}
+
+.flex-items {
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.plan-box {
+    text-align: center;
+    margin-bottom: 200px;
+
+}
+
+.one {
+    background-image: url(icons/food.png);
+    background-repeat: no-repeat;
+    background-color: aquamarine;
+}
+
+.tow {
+    background-image: url(icons/shelter.png);
+    background-repeat: no-repeat;
+    background-color: antiquewhite;
+}
+
+.three {
+    background-image: url(icons/Frame-1.png);
+    background-repeat: no-repeat;
+    background-color: blanchedalmond;
+}
+
+.donate-plan {
+    box-shadow: 10px 10px 40px gray;
+    width: 30%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 10px;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 5%;
+}
+
+.half-width img {
+    width: 80%;
+    border-radius: 5px;
+}
+
+.info-box {
+    text-align: center;
+    margin-bottom: 200px;
+}
+
+.mail-shadow {
+    box-shadow: 10px 10px 30px burlywood;
+    background-color: burlywood;
+}
+
+.down {
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+
+#red {
+    color: red;
+    font: italic;
+}
